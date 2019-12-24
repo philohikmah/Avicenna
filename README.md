@@ -14,6 +14,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
+[English Translation of Avicenna's Ta'aliqat](https://philohikmah.github.io/Ta-aliqat/)
+
 ## Header 2
 ### Header 3
 
